@@ -19,4 +19,4 @@ console.clear();
 console.log(10 + "1"); // Se não converter para número manualmente, ele não soma e sim concatena tudo em uma string
 console.log(10 - "1"); // Na subtração e outras operações há a conversão automática para número
 console.log(10 * "3");
-console.log(10 - "asass");
+console.log(10 - "asass"); // NaN => Not a Number
